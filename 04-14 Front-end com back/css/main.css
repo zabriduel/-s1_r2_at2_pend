@@ -1,3 +1,14 @@
-@import url("base.css");
-@import url("layout.css");
-@import url("components.css");
+/* BASE */
+@import url("./base/reset.css");
+@import url("./base/base.css");
+
+/* LAYOUT */
+@import url("./layout/layout.css");
+
+/* COMPONENTES */
+@import url("./components/buttons.css");
+@import url("./components/card.css");
+@import url("./components/modal.css");
+
+/* PÁGINAS */
+@import url("./pages/cadastro.css");
