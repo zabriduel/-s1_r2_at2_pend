@@ -14,7 +14,7 @@ Este projeto é uma aplicação completa de cadastro e gerenciamento de produtos
 ```
 S1_R2_AT2_PEND/
 │
-├── 04-14 Front-end com back/
+├── Front-end/
 │   ├── index.html
 │   ├── cadastro.html
 │   ├── /css
@@ -78,7 +78,7 @@ S1_R3/docs
 Abra o arquivo:
 
 ```
-04-14 Front-end com back/index.html
+Front-end/index.html
 ```
 
 Ou utilize o Live Server (recomendado).
